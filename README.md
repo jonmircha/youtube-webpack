@@ -1,6 +1,6 @@
 # Webpack
 
-En este curso te enseño a configurar _Webpack_ el empaquetador de archivos para aplicaciones _JavaScript_ modernas más popular y usado por los _Framewors_ y librerías _Frontend_.
+En este curso te enseño a configurar _Webpack_ el empaquetador de archivos para aplicaciones _JavaScript_ modernas más popular y usado por los _Frameworks_ y librerías _Frontend_.
 
 - Video del Curso: https://www.youtube.com/watch?v=-bp3q-YTr4Q
 - Códigos finales del Curso: https://github.com/jonmircha/youtube-webpack

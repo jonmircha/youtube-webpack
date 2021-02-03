@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "Chalet";
+  font-style: normal;
+  font-weight: normal;
+  src: url(./assets/chalet.woff) format("woff");
+}
+
+html {
+  box-sizing: border-box;
+  font-family: "Chalet", sans-serif;
+  font-size: 16px;
+  color: #8dd6f9;
+  background-color: #2b3a42;
+  background-image: url(./assets/batman.jpg);
+  background-size: cover;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.icon {
+  max-width: 4rem;
+}
+
